@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5086ea9-27b6-4dce-ba11-aab3d3a32bdc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/src/main/java/FirstPractice/Head01_JavaProgrammingStart/example06/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <updated>1754620427426</updated>
       <workItem from="1754620428737" duration="8231000" />
       <workItem from="1754630198008" duration="8000" />
-      <workItem from="1754630224452" duration="1888000" />
+      <workItem from="1754630224452" duration="3346000" />
     </task>
     <servers />
   </component>
