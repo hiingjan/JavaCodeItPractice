@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5086ea9-27b6-4dce-ba11-aab3d3a32bdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5086ea9-27b6-4dce-ba11-aab3d3a32bdc" name="Changes" comment="ㅗㅗ">
+      <change beforePath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/src/main/java/FirstPractice/Head01_JavaProgrammingStart/example07/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../코드잇_자바/SpringBackendPractice/src/main/java/FirstPractice/Head01_JavaProgrammingStart/example07/Practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +96,33 @@
       <updated>1754620427426</updated>
       <workItem from="1754620428737" duration="8231000" />
       <workItem from="1754630198008" duration="8000" />
-      <workItem from="1754630224452" duration="3346000" />
+      <workItem from="1754630224452" duration="3769000" />
     </task>
+    <task id="LOCAL-00001" summary="ㅏㅏ">
+      <option name="closed" value="true" />
+      <created>1754633597611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754633597611</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ㅗㅗ">
+      <option name="closed" value="true" />
+      <created>1754633611925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754633611925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ㅏㅏ" />
+    <MESSAGE value="ㅗㅗ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ㅗㅗ" />
   </component>
 </project>
