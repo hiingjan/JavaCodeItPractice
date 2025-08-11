@@ -1,4 +1,4 @@
-package FirstPractice.Head01_JavaProgrammingStart.example10;
+package FirstPractice.Head01.example10;
 
 public class Practice {
     public static void main(String[] args){

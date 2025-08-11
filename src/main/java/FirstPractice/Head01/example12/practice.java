@@ -1,4 +1,4 @@
-package FirstPractice.Head01_JavaProgrammingStart.example12;
+package FirstPractice.Head01.example12;
 
 import java.util.Arrays;
 

@@ -50,6 +50,7 @@
     "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example09.practice.main()].executor": "Run",
     "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example10.Practice.main()].executor": "Run",
     "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example11.practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example12.practice.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -104,7 +105,7 @@
       <updated>1754620427426</updated>
       <workItem from="1754620428737" duration="8231000" />
       <workItem from="1754630198008" duration="8000" />
-      <workItem from="1754630224452" duration="10441000" />
+      <workItem from="1754630224452" duration="16016000" />
     </task>
     <task id="LOCAL-00001" summary="ㅏㅏ">
       <option name="closed" value="true" />

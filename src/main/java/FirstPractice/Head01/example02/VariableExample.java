@@ -1,4 +1,4 @@
-package FirstPractice.Head01_JavaProgrammingStart.example02;
+package FirstPractice.Head01.example02;
 
 public class VariableExample {
     public static void main(String[] args){
