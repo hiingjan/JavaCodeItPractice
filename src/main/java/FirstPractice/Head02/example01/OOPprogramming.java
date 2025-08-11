@@ -1,4 +1,4 @@
-package FirstPractice.Head02;
+package FirstPractice.Head02.example01;
 
 public class OOPprogramming {
     public static void main(String[] args){

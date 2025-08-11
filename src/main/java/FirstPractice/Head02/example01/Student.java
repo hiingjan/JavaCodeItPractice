@@ -1,4 +1,4 @@
-package FirstPractice.Head02;
+package FirstPractice.Head02.example01;
 
 public class Student {
     String name;

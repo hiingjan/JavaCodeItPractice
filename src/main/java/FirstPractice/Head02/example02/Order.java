@@ -1,7 +1,6 @@
 package FirstPractice.Head02.example02;
 
 public class Order {
-
     String customer;
     String product;
     int quantity;
@@ -20,7 +19,7 @@ public class Order {
 
     public void printOrderSummary(){
         System.out.println(customer + " " + product + " " + getTotalprice());
-
     }
+
 
 }
