@@ -2,15 +2,16 @@ package FirstPractice.Head02;
 
 public class OOPprogramming {
     public static void main(String[] args){
-        String[] studentNames = {"a", "b","c"};
-        int[] mathScores = {12, 23, 44};
-        int[] engScores = {53, 64, 84};
+        Student[] students = {
+                new Student("a", 42, 62),
+                new Student("b", 61, 11),
+                new Student("c", 94, 24)
+        };
 
-        for(int i = 0; i < studentNames.length; i++){
-            int total = mathScores[i] + engScores[i];
-            double average = total / 2.0;
-            System.out.println(studentNames[i] + " " + total);
+        for(Student student : students){
+            System.out.println(student.name + " " + student.getAverage());
         }
+
 
     }
 }
