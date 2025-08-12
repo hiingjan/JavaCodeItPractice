@@ -8,7 +8,7 @@ public abstract class AbstractPayment {
         }
     }
 
-    // 공통 취소 검증 로직
+    // 공통 취소 검증 로직ㅊ
     protected void validateCancel(double amount) {
         if (amount <= 0) {
             throw new IllegalArgumentException("취소 금액이 유효하지 않습니다.");
