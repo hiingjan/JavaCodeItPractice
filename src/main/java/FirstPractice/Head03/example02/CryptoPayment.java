@@ -1,6 +1,6 @@
 package FirstPractice.Head03.example02;
 
-public class CryptoPayment implements Payment {
+public class CryptoPayment extends AbstractPayment {
 
     @Override
     public void pay(double amount) {
