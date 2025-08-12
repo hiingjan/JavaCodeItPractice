@@ -1,5 +1,6 @@
 package FirstPractice.Head03.example02;
 
+
 public class AccountTransferPayment implements Payment {
     @Override
     public void pay(double amount) {
