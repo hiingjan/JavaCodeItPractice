@@ -15,5 +15,6 @@ public class PaymentProcessorTest {
         for (int i = 0; i < payments.length; i++) {
             processor.pay(payments[i], amounts[i]);
         }
+
     }
 }
